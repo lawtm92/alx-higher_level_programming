@@ -1,2 +1,2 @@
 #!/bin/bash
-export PYCODE="$(cat mycode.py)"
+python -c "$pycode"
