@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$PYCODE" > "$TMP_PY_SCRIPT"
