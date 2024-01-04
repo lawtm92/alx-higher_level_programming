@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$PYCODE" > "$TMP_PY_SCRIPT"
+python3 -c "$PYCODE"
